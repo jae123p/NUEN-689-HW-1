@@ -1,0 +1,5 @@
+Pure Absorber Case #3
+L = 10
+sigma_a = 0.25
+sigma_s = 0
+mu = Isotropic
