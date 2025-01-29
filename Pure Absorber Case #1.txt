@@ -1,0 +1,5 @@
+Pure Absorber Case #1
+L = 10
+sigma_a = 0.5
+sigma_s = 0
+mu = 1
