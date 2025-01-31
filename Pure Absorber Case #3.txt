@@ -1,5 +1,7 @@
 Pure Absorber Case #3
-L = 10
-sigma_a = 0.25
-sigma_s = 0
-mu = Isotropic
+L =10
+sigma_a =0.25
+sigma_s =0
+N_hist =10000
+num_bins =200
+mu =Isotropic

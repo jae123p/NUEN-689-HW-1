@@ -1,5 +1,7 @@
 Pure Scatter Case #2
-L = 10
-sigma_a = 0
-sigma_s = 2
-mu = 0.3
+L =10
+sigma_a =0
+sigma_s =2
+N_hist =1000
+num_bins =200
+mu =0.3
